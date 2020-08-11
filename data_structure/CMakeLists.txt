@@ -16,5 +16,6 @@ PRIVATE
 PUBLIC
     ${CMAKE_CURRENT_LIST_DIR}/include/a_cstring.h
     ${CMAKE_CURRENT_LIST_DIR}/include/a_string.h
+    ${CMAKE_CURRENT_LIST_DIR}/include/a_shared_ptr.h
 )
 
