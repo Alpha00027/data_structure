@@ -14,6 +14,7 @@ target_sources(data_structure_test
 PRIVATE
     test_a_cstring.cpp
     test_a_string.cpp
+    test_a_shared_ptr.cpp
 )
 
 target_link_libraries(data_structure_test
